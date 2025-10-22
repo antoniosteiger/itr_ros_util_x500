@@ -1,0 +1,1 @@
+Base ROS packages to work with the Holybro x500v2 drone at the ITR chair.
