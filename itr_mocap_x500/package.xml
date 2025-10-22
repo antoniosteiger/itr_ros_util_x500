@@ -7,5 +7,5 @@
   <maintainer email="antonio.steiger@tum.de">Antonio Steiger</maintainer>
   <license>Apache 2.0</license>
 
-  <!-- <depend>itr_description_x500</depend> -->
+  <depend>px4_msgs</depend>
 </package>
