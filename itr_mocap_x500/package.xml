@@ -7,10 +7,10 @@
   <maintainer email="antonio.steiger@tum.de">Antonio Steiger</maintainer>
   <license>Apache 2.0</license>
 
-  <!-- <buildtool_depend>ament_python</buildtool_depend> -->
+  <buildtool_depend>ament_python</buildtool_depend>
   <depend>px4_msgs</depend>
 
-  <!-- <export>
+  <export>
     <build_type>ament_python</build_type>
-  </export> -->
+  </export>
 </package>
